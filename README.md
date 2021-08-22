@@ -8,7 +8,7 @@ Also I am learning French and Japanese.
 
    + Facebook: [Here](https://www.facebook.com/shinya.Ft/)
    + Email: dat.hdt183701@sis.hust.edu.vn / shinya.ft@gmail.com
-   + You can see my [CV](![image](https://user-images.githubusercontent.com/69025561/130340834-85e9566a-fa0a-4b54-9cbc-3a242b856908.png)
+   + You can see my [CV](https://drive.google.com/file/d/1208iriJlXjD5-a6D4NTm_idlRfLlo7lB/view?usp=sharing) for further information.
 
    
 
