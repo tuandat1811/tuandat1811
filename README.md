@@ -1,8 +1,7 @@
 # About me:
-- 👋 Hi, I’m Hoang Dang Tuan Dat. Call me Dat if you like.
-- 👀 I’m interested in Front-end Developer and UI/UX Design. If possible I also want to try Business Analyst and Tester.
-- 🌱 I’m currently learning Computer Engineering at Hanoi University of Science and Technology. Currently I'm on my third years.
-Also I am learning French and Japanese.
+- 👋 Hi, I’m Hoang Dang Tuan Dat.
+- 👀 I’m interested in Front-end Developer. If possible I also want to try Business Analyst and Tester.
+- 🌱 I’m currently learning Computer Engineering at Hanoi University of Science and Technology. Currently I'm on my fourth years.
 - 💞️ In my free times I like chilling out, having some coffee, playing some games or just simply earning myself some rest.
 - 📫 Reach me at : 
 
