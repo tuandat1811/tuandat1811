@@ -1,7 +1,7 @@
 # About me:
 - 👋 Hi, I’m Hoang Dang Tuan Dat.
 - 👀 I’m interested in Business Analyst and Project Manager.
-- 🌱 I’m currently learning Computer Engineering at Hanoi University of Science and Technology. Currently I'm on my fourth years.
+- 🌱 I’m currently learning Computer Engineering at Hanoi University of Science and Technology. Currently I'm on my last years.
 - 💞️ In my free times I like chilling out, having some coffee, playing some games or just simply earning myself some rest.
 - 📫 Reach me at : 
 
